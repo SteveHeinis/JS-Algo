@@ -1,0 +1,60 @@
+thuilliersylv1@gmail.com
+
+installer atom
+https://itsfoss.com/install-atom-text-editor-ubuntu-1404-linux-mint-17/
+
+installer nodejs:
+https://nodejs.org/en/download/package-manager/
+
+http://tutorialforlinux.com/2016/12/03/how-to-quickstart-with-node-js-on-linux-mint-18-sarah/
+
+Algobox
+https://community.linuxmint.com/software/view/algobox
+
+
+
+
+var v1 = Math.floor( Math.random() * 100 + 1 );
+
+Exo 1 et 2
+Inverser deux nombres avec 3 variables  
+    puis avec seulement 2
+(utile dans le tri d'un tableau)
+15 min chacun
+
+Exo 3A
+Faire un random de 1 à 100, l'afficher recommencer tant que la valeur est supérieure à 10
+15 min
+
+Exo 3B
+Faire un random de 1 à 100 sur deux valeurs séparées et comparer laquelle est plus forte et l'indiquer.
+(utile dans la comparaison de prix ou application de filtres)
+15 min
+
+Exo 4
+Afficher une somme d'un tableau de 5 valeurs random entre 50 et 100.
+(Peu servir dans le cadre d'un panier d'articles afin d'afficher le prix total)
+30min
+
+Exo 5
+Trier un tableau de 10 entiers (avec un random de 1 à 100) par ordre décroissant et l'afficher.
+(utile dans le tri de données comme les quantités de stock restants)
+30 min
+
+Exo 6
+Le joueur commence avec 100. Il mise au hasard entre 1 et 100 et il choisit au hasard pile ou face. La piece est lancée au hasard aussi. Si les deux faces sont identiques alors il gagne ce qu'il la mise sinon il perds la mise. Le jeu continue tant qu'il à de l'argent.
+(comparaison, boucle etc.)
+30 min
+
+optionnels:
+
+Exo 7
+Jeu de mise à deux joueurs avec un random sur deux dés, si les dés valent 7 alors la banque gagne,
+si les dés = leurs choix alors il gagnent leurs mises. Se termine lorsque les deux joueurs on plus d'argent.
+(gestion de variables aléatoires, boucles et conditions)
+1H
+
+Exo 8
+Faire un morpion en y réfléchissant par petits groupes
+(organisation du temps, gestion de projet, méthode agile, etc.)
+1 journée
